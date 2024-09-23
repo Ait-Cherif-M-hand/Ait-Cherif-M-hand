@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm currently a 3rd CompSci Student at Université du Lille<br>Looking for internships and new exciting oppurtunities to improve 
-
+**En** I'm currently a 3rd year CompSci Student at Université du Lille<br>Looking for internships and new exciting oppurtunities to improve 
+**Fr** Étudiant en License 3 informatique à l'Université du Lille<br> en recherche de stage et de nouvaux défis pour s'améliorer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/m%E2%80%99hand-ait-cherif-a25105291/) 
