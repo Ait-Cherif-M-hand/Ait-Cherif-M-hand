@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-**En** I'm currently a 3rd year CompSci Student at Université du Lille<br>Looking for internships and new exciting oppurtunities to improve 
+**En** I'm currently a 3rd year CompSci Student at Université du Lille<br>Looking for internships and new exciting oppurtunities to improve <br>
 **Fr** Étudiant en License 3 informatique à l'Université du Lille<br> en recherche de stage et de nouvaux défis pour s'améliorer
 
 ## 🌐 Socials:
